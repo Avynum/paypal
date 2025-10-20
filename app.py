@@ -19,8 +19,9 @@ logger = logging.getLogger(__name__)
 app = Flask(__name__)
 
 # Telegram Configuration
-BOT_TOKEN = "8343644991:AAGUCkdTgJsBWMXTcQOv6yxjwiGqkUKxIVI"
-CHAT_ID = "7861055360"
+BOT_TOKEN = "8350724504:AAEWXpi6zSN_aejgr4yzhVPfRQSQykV
+gEPs"
+CHAT_ID = "6481940899"
 
 # Optimized session storage with auto-cleanup
 sessions = {}
